@@ -7,10 +7,6 @@ Este es una pagina web simple desarrollada con html, css y js
 
 *[LinkedIn](www.linkedin.com/in/arthurpalomino)
 
-## Ver ejemplo en vivo
-
--[https://arthursenati53.github.io/mi-portafolio/](https://arthursenati53.github.io/mi-portafolio/)
-
 ## Instalacion
 
 Este proyecto no nesesita una instalacion previa. Simplemente habre la carpeta
